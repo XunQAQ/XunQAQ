@@ -4,8 +4,8 @@
 <p><em>A computer science graduate student at <a href="https://www.queensu.ca/">Queen's University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I am looking for a SDE job in Canada.    <a href="https://www.linkedin.com/in/watsonpeng/">Linkedin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Watson](https://img.shields.io/badge/-Dehui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dehui/)](https://www.linkedin.com/in/dehui-yu-3a7062227/)
-[![GitHub Watson](https://img.shields.io/github/followers/Dwightu?label=follow&style=social)](https://github.com/Dwightu)
+[![Linkedin: Watson](https://img.shields.io/badge/-Dehui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/watsonpeng/)](https://www.linkedin.com/in/watsonpeng/)
+[![GitHub Watson](https://img.shields.io/github/followers/XunQAQ?label=follow&style=social)](https://github.com/XunQAQ)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
