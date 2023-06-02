@@ -18,7 +18,7 @@ const Watson = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking with different people</b> so if you want to say hi, I'll be happy to meet you more! <b>You can link me at <a href="https://www.linkedin.com/in/watsonpeng/">linkedin<a/></b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am excited to meet and get to know talented software engineers and product managers, I'll be happy to meet you more! <b>You can link me at <a href="https://www.linkedin.com/in/watsonpeng/">linkedin<a/></b> :)</em>
   
  <p float="left" align="center" >
     <a href="https://github.com/search?q=user%3Aluckyeven+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
